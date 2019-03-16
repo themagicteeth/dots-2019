@@ -7,3 +7,7 @@ makepkg -si
 yay -S ttf-google-sans openbox-patched dunst-git ruby-colorls ccat yadm-git
 
 pacman -S tint2 rofi compton papirus-icon-theme termite grc nitrogen zsh zsh-completions zsh-syntax-highlighting neovim materia-gtk-theme
+
+pacman -S lxappearance lxappearance-obconf pcmanfm galculator-gtk2 pinta geeqie firefox-developer-edition medit l3eafpad mpv feh obconf
+
+yay -S obkey-git 
