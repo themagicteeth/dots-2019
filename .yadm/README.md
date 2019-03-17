@@ -19,7 +19,7 @@ makepkg -si
 
 ## Install AUR packages
 ```
-yay -S ttf-google-sans openbox-patched dunst-git ruby-colorls ccat yadm-git 
+yay -S ttf-google-sans openbox-patched dunst-git ruby-colorls ccat
 ```
 
 ## Change shell
@@ -29,7 +29,7 @@ chsh -s /bin/zsh
 
 ## Recomended offical packages
 ```
-pacman -S lxappearance lxappearance-obconf firefox-developer-edition grml-zsh-config
+pacman -S lxappearance lxappearance-obconf firefox-developer-edition grml-zsh-config obmenu
 ```
 
 ## Recomended AUR packages
@@ -37,10 +37,12 @@ pacman -S lxappearance lxappearance-obconf firefox-developer-edition grml-zsh-co
 yay -S obkey-git glava-git fsearch-git tor-browser-en-us
 ```
 
+# Sugessted programs
+
 ## Utilities
 ```
-pacman -S  pcmanfm galculator-gtk2 \
-gtop medit l3eafpad  atril  filezilla neofetch
+pacman -S  pcmanfm galculator-gtk2 yadm-git  \
+gtop medit l3eafpad  atril  filezilla neofetch libreoffice-fresh
 ```
 
 ## Media
